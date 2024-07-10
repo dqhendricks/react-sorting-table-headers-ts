@@ -3,7 +3,7 @@ This react component allows us to wrap table headers enabling them to add sort d
 
 *Notes: react-router-dom must be installed properly.*
 
-For a working example, view the code sandbox [here](https://codesandbox.io/p/devbox/react-sorting-table-header-ts-4n99jl?file=%2Fsrc%2FApp.tsx%3A58%2C5), or see below.
+For a working example, view the code sandbox [here](https://codesandbox.io/p/devbox/react-sorting-table-header-ts-4n99jl), or see below.
 
 **Example usage:**
 
